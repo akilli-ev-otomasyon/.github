@@ -1,1 +1,2 @@
 # .github
+Akıllı Ev Otomasyon
